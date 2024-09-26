@@ -1,3 +1,4 @@
+![screencapture-127-0-0-1-5500-2024-09-26-19_21_44](https://github.com/user-attachments/assets/2315d41d-4a9c-4d1b-921a-3a00be374b7c)
 Shopping Cart Feature using JavaScript (ES6)
 Introduction
 This project implements a basic shopping cart system using JavaScript ES6 features like arrow functions, array methods (map, filter, reduce), and object manipulation. It allows users to add, update, and remove items from the cart, calculate the total cost, apply discounts, and dynamically display cart items on a webpage.
